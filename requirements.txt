@@ -1,6 +1,5 @@
 wget
 tgcrypto
-uvloop
 tornado
 aiosignal
 Kurigram==2.2.25
