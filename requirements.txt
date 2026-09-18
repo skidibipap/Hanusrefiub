@@ -3,7 +3,7 @@ tgcrypto
 uvloop
 tornado
 aiosignal
-https://github.com/navycodes/pyrogram/archive/refs/heads/master.zip
+https://github.com/kurigram-org/kurigram/archive/refs/heads/dev.zip
 pyromod==1.1.0
 pytz
 python-dateutil
