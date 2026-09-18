@@ -3,7 +3,7 @@ tgcrypto
 tornado
 aiosignal
 Kurigram==2.2.25
-https://github.com/usernein/pyromod/archive/refs/heads/main.zip
+https://github.com/usernein/pyromod/archive/refs/heads/master.zip
 pytz
 python-dateutil
 croniter
