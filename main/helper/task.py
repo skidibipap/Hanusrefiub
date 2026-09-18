@@ -3,7 +3,7 @@ import os
 import zipfile
 from datetime import datetime
 
-from pyrogram.helpers import ikb
+from main.helper.keyboard import ikb
 from pytz import timezone
 
 from config import AKSES_DEPLOY, BOT_ID, LOG_GRUP

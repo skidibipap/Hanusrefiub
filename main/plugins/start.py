@@ -7,7 +7,7 @@ from time import time
 from pyrogram import filters
 from pyrogram.enums import ParseMode
 from pyrogram.errors import FloodWait
-from pyrogram.helpers import ikb, kb
+from main.helper.keyboard import ikb, kb
 from pyrogram.types import InlineKeyboardMarkup
 from pytz import timezone
 
