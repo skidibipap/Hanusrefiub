@@ -3,8 +3,8 @@ tgcrypto
 uvloop
 tornado
 aiosignal
-https://github.com/kurigram-org/kurigram/archive/refs/heads/dev.zip
-kurimod
+Kurigram==2.2.25
+kurimod==3.3.0
 pytz
 python-dateutil
 croniter
