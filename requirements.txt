@@ -4,7 +4,7 @@ uvloop
 tornado
 aiosignal
 https://github.com/kurigram-org/kurigram/archive/refs/heads/dev.zip
-pyromod==1.1.0
+kurimod
 pytz
 python-dateutil
 croniter

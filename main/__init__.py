@@ -17,7 +17,7 @@ from pyrogram import Client, enums
 from pyrogram.errors import *
 from pyrogram.handlers import CallbackQueryHandler, MessageHandler
 from pyrogram.types import BotCommand
-from pyromod import listen
+from kurimod import listen
 from pytz import timezone
 
 from config import (ADMIN_IDS, AKSES_DEPLOY, API_HASH, API_ID, BOT_ID,
