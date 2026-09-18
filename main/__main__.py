@@ -123,6 +123,5 @@ async def stop_main():
 if __name__ == "__main__":
     run(
         start_main(),
-        loop=bot.loop,
-        shutdown_callback=stop_main(),
+        shutdown_callback=stop_main,
     )
